@@ -5,3 +5,8 @@ password:  Kishore@97
 
 
 localhost site:  http://localhost/wordpress/
+
+
+--> To access this file you need to install wordpress in local machine with your preferred server(eg: WAMP server or XAAMP server).
+--> After installing wordpress you need to login with above credentials.
+--> And then go to dashboad in wordpress and install the plugin called "WP-CLONE" to restore this backuped file.
