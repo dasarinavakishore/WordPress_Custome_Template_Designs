@@ -1,0 +1,7 @@
+wp-login credentials:
+
+Username or Email:    dasarinavakishore@gmail.com
+password:  Kishore@97
+
+
+localhost site:  http://localhost/wordpress/
